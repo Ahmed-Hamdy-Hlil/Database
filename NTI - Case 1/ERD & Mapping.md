@@ -1,6 +1,6 @@
 # ERD & Mapping
 
-![NTI](logo-1.png)
+![NTI](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/logo-1.png?raw=true)
 
 NTI – Data Analysis
 
@@ -95,7 +95,7 @@ A big company has decided to store information about its projects and employees 
 6. **Supervises:**
    - Employee supervises other Employees.
 
-![ERD](<case 1_3-1.png>)
+![ERD](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/case%201_3-1.png?raw=true)
 
 ---
 ### Cardinalities
@@ -110,9 +110,9 @@ A big company has decided to store information about its projects and employees 
 ---
 
 ### Mapping
-![Mapping](<case 1_6-1.png>)
+![Mapping](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/case%201_6-1.png?raw=true)
 
-![Mapping](<case 1_7-1.png>)
+![Mapping](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/case%201_7-1.png?raw=true)
 
 | Entity           | Attributes                       |
 |------------------|----------------------------------|
