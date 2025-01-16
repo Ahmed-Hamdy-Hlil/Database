@@ -1,6 +1,6 @@
 # ERD & Mapping
 
-![NTI](logo-1.png)
+![NTI](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/logo-1.png)
 
 NTI – Data Analysis
 
@@ -21,11 +21,13 @@ Prepare an E-R diagram for a real estate firm that lists properties for sale. Th
 -	Each property may have zero or more owners. Attributes of owners are Owner_ID and Owner_Name. An owner own one or more properties. The system stores the percent owned by each owner in each property.
 ---
 ### ERD
-![ERD](<Problem 2_3.png>)
+![ERD](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%202_3.png)
 
 ---
+
 ### Mapping
-![Mapping](<Problem 2_4.png>)
+![Mapping](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%202_4.png)
+
 ---
 
 | Entity           | Attributes                       |
