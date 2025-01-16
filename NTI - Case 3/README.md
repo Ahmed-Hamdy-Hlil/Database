@@ -1,6 +1,6 @@
 # ERD & Mapping
 
-![NTI](logo-1.png)
+![NTI](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/logo-1.png)
 
 NTI – Data Analysis
 
@@ -28,9 +28,9 @@ Prepare an E-R diagram for a hospital:
 ---
 ### ERD
 
-![ERD](<Problem 3_3.png>)
+![ERD](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%203_3.png)
 
 ---
 ### Mapping
 
-![Mapping](<Problem 3_4.png>)
+![Mapping](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%203_4.png)
