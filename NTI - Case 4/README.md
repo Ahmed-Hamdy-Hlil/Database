@@ -1,6 +1,6 @@
 # ERD & Mapping
 
-![NTI](logo-1.png)
+![NTI](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/logo-1.png)
 
 NTI – Data Analysis
 
@@ -25,9 +25,9 @@ Each route has a route identification number, origin, destination, distance,clas
 ---
 ### ERD
 
-![ERD](<Problem 4_3.png>)
+![ERD](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%204_3.png)
 
 ---
 ### Mapping
 
-![Mapping](<Problem 4_4.png>)
+![Mapping](https://github.com/Ahmed-Hamdy-Hlil/Images/blob/main/Problem%204_4.png)
