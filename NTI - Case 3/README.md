@@ -6,7 +6,7 @@ NTI – Data Analysis
 
 ---
 
-## CASE 2
+## CASE 3
 
 Prepare an E-R diagram for a hospital:
 
